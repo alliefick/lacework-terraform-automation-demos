@@ -1,5 +1,5 @@
 # Lacework Terraform Automation Demos
-This repository contains demos and information to enable management of the Lacework Security Platform using Terraform infrastructure as code (IaC). The first part of this journey entails installation and authentication of the Lacework Terraform provider to connect the IaC resources with the Lacework account (or accounts) you wish to manage. From there, remaining demos highlight key aspects of usage and provide guidance for best practices when using the Lacework Terraform provider.
+This repository contains demos and information to help you use Terraform infrastructure as code (IaC) to manage Lacework's Polygraph Data Platform. The first part of this journey is to install and authenticate the Lacework Terraform provider to connect the IaC resources with the Lacework account (or accounts) you want to manage. From there, remaining demos highlight key aspects of usage and provide guidance for best practices when using the Lacework Terraform provider.
 
 ## Contents
 | Demo | Description | Prerequisite Demos | Documentation |
